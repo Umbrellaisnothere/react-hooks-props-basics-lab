@@ -1,4 +1,4 @@
-# Props Basics Lab
+# Props Basics Lab 
 
 ## Learning Goals
 
